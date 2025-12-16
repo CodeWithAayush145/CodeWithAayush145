@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aayush Singh
-- 👀 I’m interested in FULL STACK WEB DEVELOPER, ANDROID DEVELOPER, AI>>ML/Deep Learning
+- 👀 I’m interested in FULL STACK WEB DEVELOPER, ANDROID DEVELOPER, DATA SCIENCE, AI>>ML/Deep Learning
 - 🌱 I’m currently learning JAVA with DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me...
